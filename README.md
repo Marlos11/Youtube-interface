@@ -27,6 +27,5 @@ Sinta-se à vontade para contribuir com este projeto! Você pode fazer isso de v
 3. Explore a simulação da tela mobile do YouTube!
 
 ## Display Layout 
-![aa](https://drive.google.com/file/d/1ZCTzvXFQ5Jxge-POV2aJ0kDE57eLMqFW/preview)
-
+![aa](https://img.olhardigital.com.br/wp-content/uploads/2023/05/Games-Brasil-e1686075484409.jpg)
 
